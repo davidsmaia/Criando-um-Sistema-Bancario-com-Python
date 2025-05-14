@@ -1,10 +1,6 @@
 # Criando um Sistema Bancário com Python - Desafio DIO
 
-Sistema bancário criado seguindo as instruções presentes no curso da DIO
-
-Busquei intencionalmente utilizar funções o máximo possível para experimentação e fortalecimento do aprendizado.
-
-O código poderia conter menos linhas caso eu optasse por seguir um caminho similar a resolução da DIO
+Sistema bancário simples criado seguindo as instruções presentes no curso da DIO
 
 # Links úteis:
 
